@@ -1,3 +1,5 @@
+<img src="ReadmeAssets/thelastslice.jpg">
+
 # Challenge 2
 
 This is the second of three challenges for The Last Slice: An old-school algorithmic word find, with a twist. Download the code and run the project. Request a puzzle, and solve it with code. Each puzzle is unique and expires 30 seconds after it's issued. You can request as many puzzles as you need.
