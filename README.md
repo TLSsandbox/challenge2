@@ -14,13 +14,13 @@ Here's what you'll need to get started:
 
 You've beaten [challenge 1](https://github.com/TheLastSliceGame/TheLastSliceGame). But upon delivering the final pizza and beating the retro 8-bit game, you've discovered that the pizza you delivered has the wrong ingredients.
 
-You're task is to find the correct ingredients. You'll know you've succeeded when you receive a unique coupon code.
+You're task is to find and submit the correct ingredients. You'll know you've succeeded when you receive a unique coupon code.
 
 ## The Reward
 
-Solving this challenge qualifies you to participate in the third and final challenge, and you'll be one step closer to being one of five lucky participants that could win $10,000 USD.
+Solve this challenge before midnight UTC on July 17, 2018 and you'll be qualified to participate in the third and final challenge (which will begin on August 18, 2018). The first five participants to solve challenge 3 will each win $10,000 USD.
 
-But hurry - to be eligible to compete in the third and final challenge, you'll need to solve both this challenge and challenge 2 before midnight UTC on July 17, 2018.
+Who will nab the last slice?
 
 ## License
 
