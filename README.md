@@ -1,9 +1,6 @@
-You’ve made it this far, but your pizza oven is just heating up. And if the pizza you delivered has the wrong ingredients, then you’re in the right place. Lucky for you, all the ingredients are right here—you just have to find the right ones. But prep your pizza with care, because each puzzles expires 30-seconds after it’s issued.
-
-
 # Challenge 2
 
-This is the second of three challenges for The Last Slice: An old-school algorithmic word find, with a twist.
+This is the second of three challenges for The Last Slice: An old-school algorithmic word find, with a twist. Download the code and run the project. Request a puzzle, and solve it with code. Each puzzle is unique and expires 30 seconds after it's issued. You can request as many puzzles as you need.
 
 ## The Prerequisites
 
@@ -15,7 +12,15 @@ Here's what you'll need to get started:
 
 ## The Problem
 
-Here
+You've beaten [challenge 1](https://github.com/TheLastSliceGame/TheLastSliceGame). But upon delivering the final pizza and beating the retro 8-bit game, you've discovered that the pizza you delivered has the wrong ingredients.
+
+You're task is to find the correct ingredients. You'll know you've succeeded when you receive a unique coupon code.
+
+## The Reward
+
+Solving this challenge qualifies you to participate in the third and final challenge, and you'll be one step closer to being one of five lucky participants that could win $10,000 USD.
+
+But hurry - to be eligible to compete in the third and final challenge, you'll need to solve both this challenge and challenge 2 before midnight UTC on July 17, 2018.
 
 ## License
 
