@@ -14,7 +14,7 @@ Here's what you'll need to get started:
 
 You've beaten [challenge 1](https://github.com/TheLastSliceGame/TheLastSliceGame). But upon delivering the final pizza and beating the retro 8-bit game, you've discovered that the pizza you delivered has the wrong ingredients.
 
-You're task is to find and submit the correct ingredients. You'll know you've succeeded when you receive a unique coupon code.
+You're task is to find and submit the correct ingredients. You'll know you've succeeded when you receive a unique coupon code. (Hang on to that coupon code...you'll need it later, and we'll let you know when.)
 
 ## The Reward
 
